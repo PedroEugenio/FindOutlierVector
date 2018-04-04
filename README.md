@@ -1,0 +1,2 @@
+# FindOutlierVector
+Codewar problem solved
